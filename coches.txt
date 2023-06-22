@@ -1,0 +1,14 @@
+01 juan 18 mercedes benz
+02 jorge 20 seat ibiza
+03 Manolo 56 fiat panda
+04 pepe 18 lambo gallardo
+05 nahuel 22 escarabaj 500
+06 rafa 25 audi A6
+07 JA 28 tesla model3
+08 Adrian 26 seat leon
+09 ivan 30 buggati byron
+10 yo 27 tronco movil
+11 manolo 56 kia 300
+29 youwha 79 volkswagen nitro
+90 pepe 79 honda civic
+99 gabriel 66 marca modelo
